@@ -20,4 +20,3 @@ EOF
 chown -R abc:abc \
 	/config \
 	/data/completed/movies \
-	/movies
